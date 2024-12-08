@@ -261,7 +261,8 @@ footer {
     }
 
     .image-container-contain {
-        margin: 0 40px 76px 40px;
+        margin: 0 auto 76px auto;
+        width: 90%;
     }
 
     .text-container-contain {
